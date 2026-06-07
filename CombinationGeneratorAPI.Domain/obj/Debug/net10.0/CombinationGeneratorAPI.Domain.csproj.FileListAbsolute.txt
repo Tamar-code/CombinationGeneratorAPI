@@ -1,0 +1,12 @@
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/bin/Debug/net10.0/CombinationGeneratorAPI.Domain.deps.json
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/bin/Debug/net10.0/CombinationGeneratorAPI.Domain.dll
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/bin/Debug/net10.0/CombinationGeneratorAPI.Domain.pdb
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/CombinationGeneratorAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/CombinationGeneratorAPI.Domain.AssemblyInfoInputs.cache
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/CombinationGeneratorAPI.Domain.AssemblyInfo.cs
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/CombinationGeneratorAPI.Domain.csproj.CoreCompileInputs.cache
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/CombinationGeneratorAPI.Domain.sourcelink.json
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/CombinationGeneratorAPI.Domain.dll
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/refint/CombinationGeneratorAPI.Domain.dll
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/CombinationGeneratorAPI.Domain.pdb
+/workspaces/CombinationGeneratorAPI/CombinationGeneratorAPI.Domain/obj/Debug/net10.0/ref/CombinationGeneratorAPI.Domain.dll
